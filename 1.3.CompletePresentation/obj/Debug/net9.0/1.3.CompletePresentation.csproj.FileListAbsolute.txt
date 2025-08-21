@@ -1,0 +1,14 @@
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\obj\Debug\net9.0\1.3.CompletePresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\obj\Debug\net9.0\1.3.CompletePresentation.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\obj\Debug\net9.0\1.3.CompletePresentation.AssemblyInfo.cs
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\obj\Debug\net9.0\1.3.CompletePresentation.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\bin\Debug\net9.0\1.3.CompletePresentation.exe
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\bin\Debug\net9.0\1.3.CompletePresentation.deps.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\bin\Debug\net9.0\1.3.CompletePresentation.runtimeconfig.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\bin\Debug\net9.0\1.3.CompletePresentation.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\bin\Debug\net9.0\1.3.CompletePresentation.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\obj\Debug\net9.0\1.3.CompletePresentation.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\obj\Debug\net9.0\refint\1.3.CompletePresentation.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\obj\Debug\net9.0\1.3.CompletePresentation.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\obj\Debug\net9.0\1.3.CompletePresentation.genruntimeconfig.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.3.CompletePresentation\obj\Debug\net9.0\ref\1.3.CompletePresentation.dll

@@ -1,0 +1,14 @@
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\bin\Debug\net9.0\1.2.Soma.exe
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\bin\Debug\net9.0\1.2.Soma.deps.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\bin\Debug\net9.0\1.2.Soma.runtimeconfig.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\bin\Debug\net9.0\1.2.Soma.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\bin\Debug\net9.0\1.2.Soma.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\obj\Debug\net9.0\1.2.Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\obj\Debug\net9.0\1.2.Soma.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\obj\Debug\net9.0\1.2.Soma.AssemblyInfo.cs
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\obj\Debug\net9.0\1.2.Soma.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\obj\Debug\net9.0\1.2.Soma.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\obj\Debug\net9.0\refint\1.2.Soma.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\obj\Debug\net9.0\1.2.Soma.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\obj\Debug\net9.0\1.2.Soma.genruntimeconfig.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.2.Soma\obj\Debug\net9.0\ref\1.2.Soma.dll

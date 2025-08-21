@@ -1,0 +1,14 @@
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\bin\Debug\net9.0\1.1.Apresentação.exe
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\bin\Debug\net9.0\1.1.Apresentação.deps.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\bin\Debug\net9.0\1.1.Apresentação.runtimeconfig.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\bin\Debug\net9.0\1.1.Apresentação.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\bin\Debug\net9.0\1.1.Apresentação.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\obj\Debug\net9.0\1.1.Apresentação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\obj\Debug\net9.0\1.1.Apresentação.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\obj\Debug\net9.0\1.1.Apresentação.AssemblyInfo.cs
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\obj\Debug\net9.0\1.1.Apresentação.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\obj\Debug\net9.0\1.1.Apresentação.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\obj\Debug\net9.0\refint\1.1.Apresentação.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\obj\Debug\net9.0\1.1.Apresentação.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\obj\Debug\net9.0\1.1.Apresentação.genruntimeconfig.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\1.1.Apresentação\obj\Debug\net9.0\ref\1.1.Apresentação.dll
