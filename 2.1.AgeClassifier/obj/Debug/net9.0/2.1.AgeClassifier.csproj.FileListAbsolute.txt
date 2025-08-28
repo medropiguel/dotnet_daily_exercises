@@ -1,0 +1,15 @@
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\obj\Debug\net9.0\2.1.AgeClassifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\obj\Debug\net9.0\2.1.AgeClassifier.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\obj\Debug\net9.0\2.1.AgeClassifier.AssemblyInfo.cs
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\obj\Debug\net9.0\2.1.AgeClassifier.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\obj\Debug\net9.0\2.1.AgeClassifier.sourcelink.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\bin\Debug\net9.0\2.1.AgeClassifier.exe
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\bin\Debug\net9.0\2.1.AgeClassifier.deps.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\bin\Debug\net9.0\2.1.AgeClassifier.runtimeconfig.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\bin\Debug\net9.0\2.1.AgeClassifier.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\bin\Debug\net9.0\2.1.AgeClassifier.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\obj\Debug\net9.0\2.1.AgeClassifier.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\obj\Debug\net9.0\refint\2.1.AgeClassifier.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\obj\Debug\net9.0\2.1.AgeClassifier.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\obj\Debug\net9.0\2.1.AgeClassifier.genruntimeconfig.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\2.1.AgeClassifier\obj\Debug\net9.0\ref\2.1.AgeClassifier.dll

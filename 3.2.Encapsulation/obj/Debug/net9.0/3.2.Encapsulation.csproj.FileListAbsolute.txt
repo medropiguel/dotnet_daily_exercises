@@ -1,0 +1,15 @@
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\obj\Debug\net9.0\3.2.Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\obj\Debug\net9.0\3.2.Encapsulation.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\obj\Debug\net9.0\3.2.Encapsulation.AssemblyInfo.cs
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\obj\Debug\net9.0\3.2.Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\obj\Debug\net9.0\3.2.Encapsulation.sourcelink.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\bin\Debug\net9.0\3.2.Encapsulation.exe
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\bin\Debug\net9.0\3.2.Encapsulation.deps.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\bin\Debug\net9.0\3.2.Encapsulation.runtimeconfig.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\bin\Debug\net9.0\3.2.Encapsulation.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\bin\Debug\net9.0\3.2.Encapsulation.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\obj\Debug\net9.0\3.2.Encapsulation.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\obj\Debug\net9.0\refint\3.2.Encapsulation.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\obj\Debug\net9.0\3.2.Encapsulation.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\obj\Debug\net9.0\3.2.Encapsulation.genruntimeconfig.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.2.Encapsulation\obj\Debug\net9.0\ref\3.2.Encapsulation.dll
