@@ -82,19 +82,9 @@ internal class Contact
             "E-mail: " + Email + "\n"
         );
     }
-    public void UpdatePhoneNumber(string newPhoneNumber)
-    {
-        
-        PhoneNumber = newPhoneNumber;
-        
-    }
-    
-    public void UpdateEmail(string newEmail)
-    {
-        
-        Email = newEmail;
-        
-    }
+    public void UpdatePhoneNumber(string newPhoneNumber) => PhoneNumber = newPhoneNumber;
+
+    public void UpdateEmail(string newEmail) => Email = newEmail;
     
 }
 
