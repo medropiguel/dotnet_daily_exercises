@@ -1,0 +1,15 @@
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\obj\Debug\net9.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\obj\Debug\net9.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\obj\Debug\net9.0\BankAccount.AssemblyInfo.cs
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\obj\Debug\net9.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\obj\Debug\net9.0\BankAccount.sourcelink.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\bin\Debug\net9.0\BankAccount.exe
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\bin\Debug\net9.0\BankAccount.deps.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\bin\Debug\net9.0\BankAccount.runtimeconfig.json
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\bin\Debug\net9.0\BankAccount.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\bin\Debug\net9.0\BankAccount.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\obj\Debug\net9.0\BankAccount.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\obj\Debug\net9.0\refint\BankAccount.dll
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\obj\Debug\net9.0\BankAccount.pdb
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\obj\Debug\net9.0\BankAccount.genruntimeconfig.cache
+C:\Users\pedro\Desktop\code\dotnet\exercicios_diarios\3.3.OOP-practice\BankAccount\obj\Debug\net9.0\ref\BankAccount.dll
