@@ -9,37 +9,37 @@ internal class Contact
     private string _phoneNumber;
     private string _email;
 
-    public Guid Id { get; set; }
+    public Guid Id { get; private set; }
     public string Name
     {
-        get => value;
+        get => _name;
         set
         {
-            if (!value.IsNullOrEmpty)
+            if (!string.IsNullOrEmpty(value))
             {
                 _name = value;
             }
             else
             {
-                throw new ExceptionType("The name cannot be an empty field.");
+                throw new ArgumentException("The name cannot be an empty field.");
             }
         }
     }
 
     public string PhoneNumber
     {
-        get => value;
+        get => _phoneNumber;
         set
         {
 
-            if (value.IsNullOrEmpty)
+            if (string.IsNullOrEmpty(value))
             {
-                throw new ExceptionType("The phone number cannot be an empty field.");
+                throw new ArgumentException("The phone number cannot be an empty field.");
 
             }
             else if (value.Any(Char.IsLetter))
             {
-                throw new ExceptionType("There cannot be any letters in a phone number.");
+                throw new ArgumentException("There cannot be any letters in a phone number.");
             }
             else
             {
@@ -51,23 +51,23 @@ internal class Contact
 
     public string Email
     {
-        get => value;
+        get => _email;
         set
         {
-            if (!value.IsNullOrEmpty)
+            if (!string.IsNullOrEmpty(value))
             {
                 _email = value;
             }
             else
             {
-                throw new ExceptionType("The email cannot be an empty field.");
+                throw new ArgumentException("The email cannot be an empty field.");
             }
         }
     }
 
     public Contact(string name, string phoneNumber, string email)
     {
-        Id = Guid.NewGuid;
+        Id = Guid.NewGuid();
         Name = name;
         PhoneNumber = phoneNumber;
         Email = email;
@@ -84,35 +84,16 @@ internal class Contact
     }
     public void UpdatePhoneNumber(string newPhoneNumber)
     {
-        if (newPhoneNumber.IsNullOrEmpty)
-        {
-            throw new ExceptionType("The phone number cannot be an empty field.");
-
-        }
-        else if (newPhoneNumber.Any(Char.IsLetter))
-        {
-            throw new ExceptionType("There cannot be any letters in a phone number.");
-        }
-        else
-        {
-            PhoneNumber = newPhoneNumber;
-        }
+        
+        PhoneNumber = newPhoneNumber;
+        
     }
     
     public void UpdateEmail(string newEmail)
     {
-        if (newEmail.IsNullOrEmpty)
-        {
-            throw new ExceptionType("The phone number cannot be an empty field.");
-
-        }
-        else if (!newEmail.Contains("@")) {
-            throw new ExceptionType("This is not a valid e-mail.");
-        }
-        else
-        {
-            Email = newEmail;
-        }
+        
+        Email = newEmail;
+        
     }
     
 }
