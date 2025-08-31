@@ -27,15 +27,14 @@ namespace Models
             }
 
             if (!duplicity)
-                {
-                    ContactList.Add(AContact);
-                }
-                else
-                {
-                    throw new ArgumentException("This contact is already registered on your contact book.");
-                }
+            {
+                ContactList.Add(AContact);
+            }
+            else
+            {
+                throw new ArgumentException("This contact is already registered on your contact book.");
+            }
         }
-
         public void DeleteContact(Guid AId)
         {
             int DeleteIndex = -1;
@@ -47,7 +46,6 @@ namespace Models
                     DeleteIndex = i;
                 }
             }
-
             if ((DeleteIndex == -1))
             {
                 throw new ArgumentException("There are no contacts with this id.");
@@ -55,6 +53,29 @@ namespace Models
             else
             {
                 ContactList.RemoveAt(DeleteIndex);
+            }
+        }
+
+        public Contact FindContact(Guid AId)
+        {
+
+            foreach (Contact AContact in ContactList)
+            {
+                if (AContact.Id == AId)
+                {
+                    return AContact;
+
+                }
+            }
+            throw new ArgumentException("This Id has not been found on your contact list.");
+        }
+
+        public void ListContacts()
+        {
+            System.Console.WriteLine("ID  | NAME  |  PHONE NUMBER  |  EMAIL");
+            foreach (Contact AContact in ContactList)
+            {
+                System.Console.WriteLine($"{AContact.Id}  |  {AContact.Name}  |  {AContact.PhoneNumber}  |  {AContact.Email}");
             }
         }
     }

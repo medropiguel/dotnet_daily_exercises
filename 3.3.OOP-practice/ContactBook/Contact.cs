@@ -4,7 +4,7 @@ using System;
 using System.Linq;
 namespace Models
 {
-    class Contact
+    internal class Contact
     {
 
         private string _name;
